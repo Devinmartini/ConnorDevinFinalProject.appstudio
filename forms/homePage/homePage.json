@@ -14,9 +14,27 @@
       "!type": "External",
       "file": [
         "forms",
-        "Form3",
+        "homePage",
         "Elements",
-        "Button1.json"
+        "hamChangeForm.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "homePage",
+        "Elements",
+        "lblHomePage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "homePage",
+        "Elements",
+        "imgRun.json"
       ]
     }
   ],
@@ -26,7 +44,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "Form3",
+  "id": "homePage",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

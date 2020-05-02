@@ -126,6 +126,15 @@
         "Elements",
         "inpState.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "CreateAccount",
+        "Elements",
+        "btnBack.json"
+      ]
     }
   ],
   "class": "",

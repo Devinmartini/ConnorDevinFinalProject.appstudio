@@ -34,19 +34,62 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form3",
-            "Form3.json"
+            "homePage",
+            "homePage.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "weather",
+            "weather.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "createGoal",
+            "createGoal.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "trackProgress",
+            "trackProgress.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "newRun",
+            "newRun.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Form1",
+            "Form1.json"
           ]
         }
       ],
       "configxml": null,
       "contentSecurityPolicy": "",
       "copyright": "copyright 2020 ABC Company",
+      "cordovaBuild": null,
+      "cordovaCommand": "emulate android",
       "dashboardAccess": false,
       "defaultformsize": "320x460",
       "description": "",
       "disablePWA": "",
       "electronDevTools": "true",
+      "electronIcon": "",
       "electronMain": null,
       "electronPackage": null,
       "enableAppScroll": "false",
@@ -92,7 +135,7 @@
       "useStrict": "",
       "version": "1.0.0",
       "viewportFit": "cover",
-      "voltAppId": "",
+      "voltAppId": "pYCKBV",
       "voltDomain": ""
     }
   ],
@@ -116,5 +159,5 @@
   "phonegap_email": "",
   "phonegap_password": "",
   "script": "",
-  "version": 7
+  "version": 8
 }

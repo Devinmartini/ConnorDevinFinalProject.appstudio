@@ -1,27 +1,27 @@
-{{
+{
   "name": "{title}",
   "version": "{version}",
   "description": "{description}",
   "main": "electronMain.js",
-  "scripts": {{
+  "scripts": {
     "start": "electron .",
     "pack": "electron-builder --dir",
     "dist": "electron-builder"
-  }},
+  },
   "author": "",
   "license": "ISC",
   "repository": "",
-  "devDependencies": {{
+  "devDependencies": {
     "electron": "^7.1.0",
     "electron-builder": "^22.0.0",
     "npm": "^6.13.0"
-  }},
-  "dependencies": {{
-  }},
-  "build": {{
+  },
+  "dependencies": {
+  },
+  "build": {
     "appId": "{id}",
-    "mac": {{
+    "mac": {
       "category": "public.app-category.developer-tools"
-    }}
-  }}
-}}
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "weather",
+        "Elements",
+        "lblWeather.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "weather",
+        "Elements",
+        "lblFeelsLike.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "weather",
+        "Elements",
+        "lblFeelsLikeText.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "weather",
+        "Elements",
+        "btnCurrentCity.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "weather",
+        "Elements",
+        "inpCurrentCity.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "weather",
+        "Elements",
+        "lblWeatherDescriptionText.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "weather",
+        "Elements",
+        "lblWeatherDescription.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "weather",
+        "Elements",
+        "hamWeather.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "weather",
+        "Elements",
+        "lblWindSpeedText.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "weather",
+        "Elements",
+        "lblPrecipText.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "weather",
+        "Elements",
+        "lblPrecip.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "weather",
+        "Elements",
+        "lblWindSpeed.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "weather",
+        "Elements",
+        "imgWeather.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "weather",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "weather.onshow()",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}
